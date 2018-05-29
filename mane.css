@@ -1,0 +1,33 @@
+.title {
+	text-align: center;
+}
+
+table.user-data-table tr > td:first-child {
+	padding-right: 16px;
+	text-align: right;
+	font-weight: bold;
+}
+
+.photo {
+	float: right;
+	max-width: 150px;
+	display: block;
+}
+
+.user-data-table{
+	float: left;
+}
+
+.clearfix{
+	float: none;
+	display: block;
+}
+
+.content-user-info{
+	clear: both;
+}
+
+.container{
+	width: 930px;
+	margin: auto;
+}
